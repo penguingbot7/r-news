@@ -5,5 +5,4 @@
 
 # r-news
 reddit new behavoir
-Potassium Chlorate Lab Grade
-Sulfur Roll, Lab Grade
+Rotolo di zolfo di grado laboratorio di clorato di potassio, grado di laboratorio
